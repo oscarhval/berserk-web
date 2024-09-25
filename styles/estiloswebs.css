@@ -1,0 +1,230 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+#all{
+    width: 1024px;
+    border: 3px crimson solid;
+    margin: auto;
+
+}
+
+header{
+    width: 100%;
+    height: 135px;
+    background-color: white;
+    text-align: center;
+}
+
+nav{
+    width: 100%;
+    height: 146px;
+    background-color: crimson;
+
+}
+
+nav ul{
+
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li{
+
+    width: 100%;
+    float: left;
+    text-align: center;
+
+}
+
+nav ul li a{
+
+    background-color: crimson;
+    color: white;
+    width: 100%;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    padding: 5px 0 5px 0;
+    font-family: fantasy;
+}
+
+a:hover{
+
+    background-color: rgb(0, 0, 0);
+}
+
+
+section{
+
+    width: 50%;
+    height: 1350px;
+    background-color: gainsboro;
+    float: left;
+
+}
+
+section a{
+
+    display: block;
+    margin: 0px 36px 20px 36px;
+    font-size: xx-large;
+    text-align: center;
+    
+}
+
+section p{
+
+    display: block;
+    margin: 0px 36px 75px 36px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: center;
+}
+
+
+
+section img{
+
+    margin: 40px 36px 80px 36px;
+    border-image: url(/img/borde.png) 20 round;
+    border-width: 20px;
+    border-style: solid;
+
+}
+
+aside{
+
+    width: 50%;
+    height: 1350px;
+    background-color: gainsboro;
+    float: right;
+
+}
+
+aside img{
+
+    margin: 90px 36px 20px 36px;
+    border-image: url(/img/borde.png) 20 round;
+    border-width: 20px;
+    border-style: solid;
+}
+
+aside a{
+
+    display: block;
+    margin: 80px 36px 20px 36px;
+    font-size: xx-large;
+    text-align: center;
+
+}
+
+aside p{
+
+    margin: 0px 36px 20px 36px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: center;
+}
+
+.enlaces{
+
+    color: blue;
+    text-decoration: underline;
+    padding: 5px 10px;
+    border: 1px solid gainsboro;
+}
+
+.enlaces:hover{
+
+    color: crimson;
+    text-decoration: underline;
+    font-weight: bold;
+
+}
+
+footer{
+    width: 100%;
+    height: 45px;
+    background-color: crimson;
+    clear: both;
+
+}
+
+footer pre{
+  
+    text-align: center;
+    float: left;
+    padding-top: 15px;
+    margin:0%;
+    
+}
+
+#footer3{
+
+    vertical-align: top;
+    float: right;
+    padding-right: 5px;
+    padding-top: 5px;
+}
+
+footer img{
+
+    text-align: center;
+    float:right;
+    padding: 10px 10px 10px 10px;
+    margin: 0%;
+}
+
+
+#logo {
+    width: 70px;
+    height: 100px;
+    float: left;
+    padding-left: 20px;
+}
+
+#logo2 {
+    width: 70px;
+    height: 100px;
+    float: right;
+    padding-right: 20px;
+
+}
+
+#logoX{
+
+    width: 30px;
+    height: 30px;
+
+}
+
+#titulo {
+    font-size: 70px;
+    text-align: center;
+    color: crimson;
+    font-family: fantasy;
+}
+
+#img1{
+
+    width: 400px;
+    height: 350px;
+   
+
+}
+
+#img2{
+
+    width: 400px;
+    height: 350px;
+
+}
+
+#img3{
+
+    width: 400px;
+    height: 350px;
+
+}
